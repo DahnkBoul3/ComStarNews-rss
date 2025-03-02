@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>My Fake RSS Feed</title>
+    <link>https://DahnkBoul3.github.io/</link>
+    <description>Real-time reports from the brutal Third Succession War.</description>
+        <language>en-us</language>
+        <pubDate>Sat, 01 Mar 2025 12:00:00 GMT</pubDate>
+    <item>
+            <title>Davion Blitzkrieg Stalls!</title>
+            <link>https://ComStarNews.com/posts/davion-blitzkrieg</link>
+            <description>The Federated Suns’ push into St. Ives grinds to a halt as CCAF reinforcements arrive. “We expected militia,” grumbles one Davion officer. “Instead, we got elite Death Commandos.” The Suns’ forces retreat, licking their wounds.</description>
+            <pubDate>Sat, 01 Mar 2025 14:00:00 GMT</pubDate>
+            <guid>davion-blitzkrieg-2025-03-01</guid>
+        </item>
+
+        <item>
+            <title>ComStar Speaks—But Says Nothing!</title>
+            <link>https://yourwebsite.com/posts/comstar-silence</link>
+            <description>Reports of a lostech discovery on New Avalon flood news channels, but ComStar remains suspiciously silent. “What they don’t say worries me more than what they do,” whispers one tech-hunter.</description>
+            <pubDate>Sun, 02 Mar 2025 09:30:00 GMT</pubDate>
+            <guid>comstar-silence-2025-03-02</guid>
+        </item>
+
+    <item>
+         <title>Liao Nobles Revolt---Again!
+         <link>https://ComStarNews.com/posts/Liao-Revolt</link>
+         <description>High nobility on Randar declare independence from House Liao. Chancellor Maximilian Liao, furious, dispatches Maskirovka agents to “negotiate.” Locals already bracing for sudden disappearances.</description>
+         <pubDate>Mon 03 Mar 2025 04:00:00 GMT</pubDate>
+         <guid>Liao-Revolt-2025-03-03</guid>
+     </item>
+  </channel>
+</rss>
